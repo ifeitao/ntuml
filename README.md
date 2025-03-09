@@ -22,7 +22,7 @@
   * 机器学习基石 链接: https://pan.baidu.com/s/1_pQBqjC8GsdkaajSVj27JQ  密码: awjq
   * 机器学习技法 链接：http://pan.baidu.com/s/1qYjoglI 密码：0vf8
 * 教材 Learning From Data
-  * [教材非授权下载](http://gen.lib.rus.ec/book/index.php?md5=BCF7C1FF782654437CA474770AB041D5) （版权所限，本repo就不直接放进来了，希望能早日引进到大陆
+  * [教材非授权下载](http://gen.lib.rus.ec/book/index.php?md5=BCF7C1FF782654437CA474770AB041D5) （版权所限，本repo就不直接放进来了，希望能早日引进到大陆)
   * [教材主页](http://amlbook.com/) 可下载电子版补充章节，需要通关密码（在教材中）
 * 使用相同教材的类似课程
   * https://work.caltech.edu/telecourse.html 来自加利福尼亚理工学院，教材的第一作者开课，同时在edx平台有公开课
