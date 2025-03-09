@@ -1,6 +1,7 @@
 # 台湾大学林轩田机器学习公开课
 
 ## 简介
+
 台湾大学林轩田老师的机器学习公开课，有一定的理论深度，尤其是PAC理论讲得比较透彻，而且很善于总结与融汇贯通，课程使用英文资料，中文讲解，要听懂需要一定的数学基础。
 
 这门课程最早是在coursera平台的，分割为**机器学习基石**和**机器学习技法**两门课程，但是由于平台的更新，这两门课程都已经下架。后续林老师又稍微重新组织了一下课程结构重新上架，当前（202010）的课程地址如下：
@@ -16,7 +17,6 @@
 ## 资源列表
 
 * [ntuml mooc主页](http://www.csie.ntu.edu.tw/~htlin/mooc/)
-* [我的作业解答地址](https://github.com/yifeitao/learn/tree/master/ntuml)
 * [台大2015年机器学习课程主页](https://www.csie.ntu.edu.tw/~htlin/course/ml15fall/)
 * 公开课视频与课件下载
   * 机器学习基石 链接: https://pan.baidu.com/s/1_pQBqjC8GsdkaajSVj27JQ  密码: awjq
@@ -26,4 +26,3 @@
   * [教材主页](http://amlbook.com/) 可下载电子版补充章节，需要通关密码（在教材中）
 * 使用相同教材的类似课程
   * https://work.caltech.edu/telecourse.html 来自加利福尼亚理工学院，教材的第一作者开课，同时在edx平台有公开课
-
